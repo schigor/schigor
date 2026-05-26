@@ -10,7 +10,7 @@
 ### 🚀 Co u mnie słychać?
 * 🌱 **Aktualnie zgłębiam:** integrację modeli LLM z wykorzystaniem PydanticAI, architekturę chmurową
 * 🔭 **Pracuję nad:** wykorzystaniem LLM do wspomagania procesu tworzenia wymagań projektowych
-* ⚡ **Ciekawostka:** Poza programowaniem uczę młodzież matmatyki
+* ⚡ **Ciekawostka:** Poza programowaniem uczę młodzież matematyki
 
 ---
 
