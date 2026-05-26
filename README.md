@@ -1,4 +1,4 @@
-# 💫 Cześć, jestem Igor! 👋
+# Cześć, jestem Igor! 👋
 
 🎓 **Student Informatyki | Wydział Matematyki Stosowanej @ Politechnika Śląska**
 
@@ -8,9 +8,9 @@
 * 🥉 **6. Miejsce na BIT FESTIWAL 2025** w kategorii **GameJam**
   
 ### 🚀 Co u mnie słychać?
-* 🌱 **Aktualnie zgłębiam:** integrację modeli LLM z wykorzystaniem PydanticAI, architekturę chmurową
-* 🔭 **Pracuję nad:** wykorzystaniem LLM do wspomagania procesu tworzenia wymagań projektowych
-* ⚡ **Ciekawostka:** Poza programowaniem uczę młodzież matematyki
+* **Aktualnie zgłębiam:** integrację modeli LLM z wykorzystaniem PydanticAI, architekturę chmurową
+* **Pracuję nad:** wykorzystaniem LLM do wspomagania procesu tworzenia wymagań projektowych
+* **Ciekawostka:** Poza programowaniem uczę młodzież matematyki
 
 ---
 
